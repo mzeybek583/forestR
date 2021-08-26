@@ -1,7 +1,7 @@
 
 
 ## Edit for Diameter and Height Values Manually
-## TreeLS improvement
+## TreeLS manual improvement
 
 # -------------------------------------------------------------------------
 rm(list = ls(globalenv()))
