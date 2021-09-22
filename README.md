@@ -6,3 +6,4 @@ Provides a set of package applications for analyzing the point cloud data for ex
 - Point cloud conversion to raster (rasterise)
 - watershed application
 - Regression model for dendrometry and plots
+- Cluster point cloud for forest area
