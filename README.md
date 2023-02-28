@@ -7,3 +7,5 @@ Provides a set of package applications for analyzing the point cloud data for ex
 - watershed application
 - Regression model for dendrometry and plots
 - Cluster point cloud for forest area
+- Plot inventory
+- Calculate individual wood volume 
